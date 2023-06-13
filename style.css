@@ -1,5 +1,6 @@
     .container{
-      margin-bottom: 100px;
+      margin-top: 0px;
+      margin-bottom: 70px;
     }
     .grid {
     display: grid;
@@ -10,7 +11,8 @@
    }
 
   .flip-card {
-    margin-top: 90px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border-style: hidden;
     background-color: transparent;
     width: 90px;
@@ -55,7 +57,7 @@
   }
 
   .img{
-    width: 100px;
+    width: 90px;
     height: 90px;
     border-radius: 10px;
   }
@@ -68,8 +70,8 @@
   }
   .btn{
     padding: 7px;
-    padding-left: 23px;
-    padding-right: 23px;
+    padding-left: 17px;
+    padding-right: 17px;
     text-decoration: none;
     border: 1px solid  #ffa600;
     border-radius: 10px;

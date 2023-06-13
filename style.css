@@ -1,25 +1,4 @@
- /* Tablets */
- @media(max-width: 768px) {
     .grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      justify-items: center;
-      align-items: center;
-      grid-gap: 15px;
-    }
-  }
-  
-  /* Mobile  */
-  @media(max-width: 550px) {
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      justify-items: center;
-      align-items: center;
-      grid-gap: 15px;
-    }
-  }
-  .grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-items: center;
@@ -74,7 +53,7 @@
   } 
 }
 
-@media(max-width: 500px) {
+@media(max-width: 550px) {
   .grid {
    grid-template-columns: repeat(3, 1fr);
   } 

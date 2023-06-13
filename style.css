@@ -62,9 +62,11 @@
     border-radius: 10px;
   }
   .card-title{
+    color: #fff;
     margin: 0px;
   }
   .card-text{
+    color: #fff;
     margin: 0px;
     margin-bottom: 10px;
   }

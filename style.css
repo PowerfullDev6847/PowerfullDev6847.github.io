@@ -69,8 +69,8 @@
     margin-bottom: 10px;
   }
   .btn{
-    padding: 7px;
-    padding-left: 17px;
+    padding: 6px;
+    padding-left: 20px;
     padding-right: 17px;
     text-decoration: none;
     border: 1px solid  #ffa600;
@@ -89,7 +89,7 @@
   
 
 
-@media(max-width: 868px) {
+@media(max-width: 768px) {
   .grid {
     grid-template-columns: repeat(3, 1fr);
   } 

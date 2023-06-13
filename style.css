@@ -36,6 +36,7 @@
     backface-visibility: hidden;
    }
 
+
    .flip-card-front {
     background-color: #bbb;
     color: black;
@@ -53,7 +54,7 @@
   } 
 }
 
-@media(max-width: 550px) {
+@media(max-width: 650px) {
   .grid {
    grid-template-columns: repeat(3, 1fr);
   } 

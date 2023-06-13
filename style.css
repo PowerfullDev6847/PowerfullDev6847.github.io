@@ -48,13 +48,13 @@
     transform: rotateY(180deg);
   }
 
-@media(max-width: 768px) {
+@media(max-width: 868px) {
   .grid {
     grid-template-columns: repeat(3, 1fr);
   } 
 }
 
-@media(max-width: 650px) {
+@media(max-width: 500px) {
   .grid {
    grid-template-columns: repeat(3, 1fr);
   } 
